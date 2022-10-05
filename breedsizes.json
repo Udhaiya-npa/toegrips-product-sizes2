@@ -877,7 +877,7 @@
       "size7": null
     },
     {
-        "name1": "German Wirehaired Pointer",
+        "name": "German Wirehaired Pointer",
         "size1": ["L", "45 - 75 lbs"],
         "size2": ["XL", "76 - 95 lbs"],
         "size3": null,
@@ -887,7 +887,7 @@
         "size7": null
        },
        {
-        "name1": "Giant Schnauzer",
+        "name": "Giant Schnauzer",
         "size1": ["L", "50 - 74 lbs"],
         "size2": ["XL", "75 - 99 lbs"],
         "size3": ["XXL", "100+ lbs"],
@@ -897,7 +897,7 @@
         "size7": null
        },
        {
-        "name1": "Glen of Imaal Terrier",
+        "name": "Glen of Imaal Terrier",
         "size1": ["M", "16 - 39 lbs"],
         "size2": null,
         "size3": null,
@@ -907,7 +907,7 @@
         "size7": null
        },
        {
-        "name1": "Golden Retriever",
+        "name": "Golden Retriever",
         "size1": ["L", "40 - 74 lbs"],
         "size2": ["XL", "75 - 99 lbs"],
         "size3": null,
@@ -917,7 +917,7 @@
         "size7": null
        },
        {
-        "name1": "Goldendoodle",
+        "name": "Goldendoodle",
         "size1": ["M", "25 - 39 lbs"],
         "size2": ["L", "40 - 74 lbs"],
         "size3": ["XL", "75 - 100 lbs"],
@@ -927,7 +927,7 @@
         "size7": null
        },
        {
-        "name1": "Gordon Setter",
+        "name": "Gordon Setter",
         "size1": ["L", "40 - 74 lbs"],
         "size2": ["XL", "75 - 99 lbs"],
         "size3": null,
@@ -937,10 +937,10 @@
         "size7": null
        },
        {
-        "name1": "Grand Basset Griffon Vendeen"
+        "name": "Grand Basset Griffon Vendeen"
        },
        {
-        "name1": "Great Dane",
+        "name": "Great Dane",
         "size1": ["XXL", "95 - 124 lbs"],
         "size2": ["XXXL", "125+ lbs"],
         "size3": null,
@@ -950,7 +950,7 @@
         "size7": null
        },
        {
-        "name1": "Greater Swiss Mountain Dog",
+        "name": "Greater Swiss Mountain Dog",
         "size1": ["XL", "85 - 115 lbs"],
         "size2": ["XXL", "116 - 140 lbs"],
         "size3": null,
@@ -960,7 +960,7 @@
         "size7": null
        },
        {
-        "name1": "Great Pyrenees",
+        "name": "Great Pyrenees",
         "size1": ["XL", "75 - 100 lbs"],
         "size2": ["XXL", "101 - 160 lbs"],
         "size3": null,
@@ -970,7 +970,7 @@
         "size7": null
        },
        {
-        "name1": "Greyhound",
+        "name": "Greyhound",
         "size1": ["L", "35 - 69 lbs"],
         "size2": ["XL", "70 - 100 lbs"],
         "size3": null,
@@ -980,7 +980,7 @@
         "size7": null
        },
        {
-        "name1": "Harrier",
+        "name": "Harrier",
         "size1": ["L", "40 - 70 lbs"],
         "size2": null,
         "size3": null,
@@ -990,7 +990,7 @@
         "size7": null
        },
        {
-        "name1": "Havanese",
+        "name": "Havanese",
         "size1": ["S", "7 - 20 lbs"],
         "size2": null,
         "size3": null,
@@ -1000,7 +1000,7 @@
         "size7": null
        },
        {
-        "name1": "Husky",
+        "name": "Husky",
         "size1": ["L", "35 - 59 lbs"],
         "size2": ["XL", "60 - 90 lbs"],
         "size3": null,
@@ -1010,7 +1010,7 @@
         "size7": null
        },
        {
-        "name1": "Ibizan Hound",
+        "name": "Ibizan Hound",
         "size1": ["L", "40 - 65 lbs"],
         "size2": null,
         "size3": null,
@@ -1020,7 +1020,7 @@
         "size7": null
        },
        {
-        "name1": "Icelandic Sheepdog",
+        "name": "Icelandic Sheepdog",
         "size1": ["M", "16 - 39 lbs"],
         "size2": null,
         "size3": null,
@@ -1030,7 +1030,7 @@
         "size7": null
        },
        {
-        "name1": "Irish Setter",
+        "name": "Irish Setter",
         "size1": ["L", "40 - 69 lbs"],
         "size2": ["XL", "70 - 100 lbs"],
         "size3": null,
@@ -1040,7 +1040,7 @@
         "size7": null
        },
        {
-        "name1": "Irish Terrier",
+        "name": "Irish Terrier",
         "size1": ["M", "15 - 39 lbs"],
         "size2": null,
         "size3": null,
@@ -1050,7 +1050,7 @@
         "size7": null
        },
        {
-        "name1": "Irish Wolfhound",
+        "name": "Irish Wolfhound",
         "size1": ["XXL", "100 - 124 lbs"],
         "size2": ["XXXL", "125+ lbs"],
         "size3": null,
@@ -1060,7 +1060,7 @@
         "size7": null
        },
        {
-        "name1": "Italian Greyhound",
+        "name": "Italian Greyhound",
         "size1": ["S", "8 - 16 lbs"],
         "size2": ["M", "17 - 30 lbs"],
         "size3": null,
@@ -1070,7 +1070,7 @@
         "size7": null
        },
        {
-        "name1": "Jack Russell",
+        "name": "Jack Russell",
         "size1": ["S", "10 - 14 lbs"],
         "size2": ["M", "15 - 39 lbs"],
         "size3": null,
@@ -1080,7 +1080,7 @@
         "size7": null
        },
        {
-        "name1": "Japanese Chin",
+        "name": "Japanese Chin",
         "size1": ["XS", "3 - 7 lbs"],
         "size2": ["S", "8 - 18 lbs"],
         "size3": null,
@@ -1090,7 +1090,7 @@
         "size7": null
        },
        {
-        "name1": "Keeshond",
+        "name": "Keeshond",
         "size1": ["M", "20 - 39 lbs"],
         "size2": ["L", "40 - 65 lbs"],
         "size3": null,
@@ -1100,7 +1100,7 @@
         "size7": null
        },
        {
-        "name1": "Kerry Blue Terrier",
+        "name": "Kerry Blue Terrier",
         "size1": ["M", "25 - 40 lbs"],
         "size2": null,
         "size3": null,
@@ -1110,7 +1110,7 @@
         "size7": null
        },
        {
-        "name1": "Komondor",
+        "name": "Komondor",
         "size1": ["XL", "75 - 99 lbs"],
         "size2": ["XXL", "100+ lbs"],
         "size3": null,
@@ -1120,7 +1120,7 @@
         "size7": null
        },
        {
-        "name1": "Kuvasz",
+        "name": "Kuvasz",
         "size1": ["XL", "75 - 99 lbs"],
         "size2": ["XXL", "100 - 124 lbs"],
         "size3": null,
@@ -1130,7 +1130,7 @@
         "size7": null
        },
        {
-        "name1": "Labradoodle",
+        "name": "Labradoodle",
         "size1": ["M", "25 - 39 lbs"],
         "size2": ["L", "40 - 74 lbs"],
         "size3": ["XL", "75 - 100 lbs"],
@@ -1140,7 +1140,7 @@
         "size7": null
        },
        {
-        "name1": "Labrador Retriever",
+        "name": "Labrador Retriever",
         "size1": ["L", "40 - 74 lbs"],
         "size2": ["XL", "75 - 100 lbs"],
         "size3": null,
@@ -1150,7 +1150,7 @@
         "size7": null
        },
        {
-        "name1": "Lakeland Terrier",
+        "name": "Lakeland Terrier",
         "size1": ["M", "15 - 35 lbs"],
         "size2": null,
         "size3": null,
@@ -1160,7 +1160,7 @@
         "size7": null
        },
        {
-        "name1": "Leonberger",
+        "name": "Leonberger",
         "size1": ["XL", "75 - 99 lbs"],
         "size2": ["XXL", "100 - 124 lbs"],
         "size3": ["XXXL", "125+ lbs"],
@@ -1170,7 +1170,7 @@
         "size7": null
        },
        {
-        "name1": "Lhasa Also",
+        "name": "Lhasa Also",
         "size1": ["S", "8 - 15 lbs"],
         "size2": ["M", "16 - 35 lbs"],
         "size3": null,
@@ -1180,7 +1180,7 @@
         "size7": null
        },
        {
-        "name1": "Lowchen",
+        "name": "Lowchen",
         "size1": ["S", "8 - 14 lbs"],
         "size2": ["M", "15 - 30 lbs"],
         "size3": null,
@@ -1190,7 +1190,7 @@
         "size7": null
        },
        {
-        "name1": "Malamute",
+        "name": "Malamute",
         "size1": ["L", "40 - 74 lbs"],
         "size2": ["XL", "75 - 99 lbs"],
         "size3": ["XXL", "100+ lbs"],
@@ -1200,7 +1200,7 @@
         "size7": null
        },
        {
-        "name1": "Maltese",
+        "name": "Maltese",
         "size1": ["XS", "0 - 7 lbs"],
         "size2": ["S", "8 - 19 lbs"],
         "size3": null,
@@ -1210,7 +1210,7 @@
         "size7": null
        },
        {
-        "name1": "Manchester Terrier",
+        "name": "Manchester Terrier",
         "size1": ["S", "8 - 14 lbs"],
         "size2": ["M", "15 - 39 lbs"],
         "size3": null,
@@ -1220,7 +1220,7 @@
         "size7": null
        },
        {
-        "name1": "Mastiff",
+        "name": "Mastiff",
         "size1": ["XXL", "100 - 150 lbs"],
         "size2": ["XXXL", "150+ lbs"],
         "size3": null,
@@ -1230,7 +1230,7 @@
         "size7": null
        },
        {
-        "name1": "Miniature American Shepherd",
+        "name": "Miniature American Shepherd",
         "size1": ["M", "15 - 40 lbs"],
         "size2": null,
         "size3": null,
@@ -1240,7 +1240,7 @@
         "size7": null
        },
        {
-        "name1": "Miniature Bull Terrier",
+        "name": "Miniature Bull Terrier",
         "size1": ["M", "15 - 29 lbs"],
         "size2": ["L", "30 - 60 lbs"],
         "size3": null,
@@ -1250,7 +1250,7 @@
         "size7": null
        },
        {
-        "name1": "Miniature Pinscher",
+        "name": "Miniature Pinscher",
         "size1": ["XS", "0 - 7 lbs"],
         "size2": ["S", "8 - 14 lbs"],
         "size3": ["M", "15 - 30 lbs"],
@@ -1260,7 +1260,7 @@
         "size7": null
        },
        {
-        "name1": "Miniature Poodle",
+        "name": "Miniature Poodle",
         "size1": ["S", "8 - 20 lbs"],
         "size2": ["M", "21 - 35 lbs"],
         "size3": null,
@@ -1270,7 +1270,7 @@
         "size7": null
        },
        {
-        "name1": "Miniature Schnauzer",
+        "name": "Miniature Schnauzer",
         "size1": ["M", "15 - 35 lbs"],
         "size2": null,
         "size3": null,
@@ -1280,7 +1280,7 @@
         "size7": null
        },
        {
-        "name1": "Neapolitan Mastiff",
+        "name": "Neapolitan Mastiff",
         "size1": ["XXL", "100 - 150 lbs"],
         "size2": ["XXXL", "150+ lbs"],
         "size3": null,
@@ -1290,7 +1290,7 @@
         "size7": null
        },
        {
-        "name1": "Newfoundland",
+        "name": "Newfoundland",
         "size1": ["XL", "75 - 99 lbs"],
         "size2": ["XXL", "100 - 124 lbs"],
         "size3": ["XXXL", "125 + lbs"],
@@ -1300,7 +1300,7 @@
         "size7": null
        },
        {
-        "name1": "Norfolk Terrier",
+        "name": "Norfolk Terrier",
         "size1": ["S", "8 - 15 lbs"],
         "size2": null,
         "size3": null,
@@ -1310,7 +1310,7 @@
         "size7": null
        },
        {
-        "name1": "Norwegian Buhund",
+        "name": "Norwegian Buhund",
         "size1": ["M", "15 - 39 lbs"],
         "size2": ["L", "40 - 74 lbs"],
         "size3": null,
@@ -1320,7 +1320,7 @@
         "size7": null
        },
        {
-        "name1": "Norwegian Elkhound",
+        "name": "Norwegian Elkhound",
         "size1": ["M", "25 - 39 lbs"],
         "size2": ["L", "49 - 70 lbs"],
         "size3": null,
@@ -1330,7 +1330,7 @@
         "size7": null
        },
        {
-        "name1": "Norwegian Lundehund",
+        "name": "Norwegian Lundehund",
         "size1": ["S", "8 - 14 lbs"],
         "size2": ["M", "15 - 39 lbs"],
         "size3": null,
@@ -1340,7 +1340,7 @@
         "size7": null
        },
        {
-        "name1": "Norwich Terrier",
+        "name": "Norwich Terrier",
         "size1": ["S", "8 - 14 lbs "],
         "size2": ["M", "15 - 30 lbs"],
         "size3": null,
@@ -1350,7 +1350,7 @@
         "size7": null
        },
        {
-        "name1": "Nova Scotia Duck Tolling Retriever",
+        "name": "Nova Scotia Duck Tolling Retriever",
         "size1": ["M", "20 - 39 lbs"],
         "size2": ["L", "40 - 70 lbs"],
         "size3": null,
@@ -1360,7 +1360,7 @@
         "size7": null
        },
        {
-        "name1": "Old English Sheepdog",
+        "name": "Old English Sheepdog",
         "size1": ["L", "45 - 69 lbs"],
         "size2": ["XL", "70 - 110 lbs"],
         "size3": null,
@@ -1370,7 +1370,7 @@
         "size7": null
        },
        {
-        "name1": "Otterhound",
+        "name": "Otterhound",
         "size1": ["L", "45 - 74 lbs"],
         "size2": ["XL", "75 -100 lbs"],
         "size3": null,
@@ -1380,7 +1380,7 @@
         "size7": null
        },
        {
-        "name1": "Papillon",
+        "name": "Papillon",
         "size1": ["XS", "0 - 7 lbs"],
         "size2": ["S", "8 - 15 lbs"],
         "size3": null,
@@ -1390,7 +1390,7 @@
         "size7": null
        },
        {
-        "name1": "Parson Russell Terrier",
+        "name": "Parson Russell Terrier",
         "size1": ["S", "8 - 15 lbs"],
         "size2": ["M", "16 - 35 lbs"],
         "size3": null,
@@ -1400,7 +1400,7 @@
         "size7": null
        },
        {
-        "name1": "Pekingese",
+        "name": "Pekingese",
         "size1": ["XS", "0 - 7 lbs"],
         "size2": ["S", "8 - 14 lbs"],
         "size3": ["M", "15 - 30 lbs"],
@@ -1410,7 +1410,7 @@
         "size7": null
        },
        {
-        "name1": "Pembroke Welsh Corgi",
+        "name": "Pembroke Welsh Corgi",
         "size1": ["M", "15 - 29 lbs"],
         "size2": ["L", "30 - 60 lbs"],
         "size3": null,
@@ -1420,7 +1420,7 @@
         "size7": null
        },
        {
-        "name1": "Petit Basset Griffon Vendeen",
+        "name": "Petit Basset Griffon Vendeen",
         "size1": ["M", "20 - 39 lbs"],
         "size2": ["L", "40 - 60 lbs"],
         "size3": null,
@@ -1430,7 +1430,7 @@
         "size7": null
        },
        {
-        "name1": "Pharoah Hound",
+        "name": "Pharoah Hound",
         "size1": ["L", "40 - 75 lbs"],
         "size2": null,
         "size3": null,
@@ -1440,7 +1440,7 @@
         "size7": null
        },
        {
-        "name1": "Pit Bull",
+        "name": "Pit Bull",
         "size1": ["M", "15 - 39 lbs"],
         "size2": ["L", "40 - 74 lbs"],
         "size3": ["XL", "75 - 99 lbs"],
@@ -1450,7 +1450,7 @@
         "size7": null
        },
        {
-        "name1": "Plott",
+        "name": "Plott",
         "size1": ["L", "40 - 74 lbs"],
         "size2": ["XL", "75 - 99 lbs"],
         "size3": null,
@@ -1460,7 +1460,7 @@
         "size7": null
        },
        {
-        "name1": "English Pointer",
+        "name": "English Pointer",
         "size1": ["L", "40 - 74 lbs"],
         "size2": ["XL", "75 - 99 lbs"],
         "size3": null,
@@ -1470,7 +1470,7 @@
         "size7": null
        },
        {
-        "name1": "Polish Lowland Sheepdog",
+        "name": "Polish Lowland Sheepdog",
         "size1": ["M", "15 - 39 lbs"],
         "size2": ["L", "40 - 74 lbs"],
         "size3": null,
@@ -1480,7 +1480,7 @@
         "size7": null
        },
        {
-        "name1": "Pomeranian",
+        "name": "Pomeranian",
         "size1": ["XS", "0 - 7 lbs"],
         "size2": ["S", "8 - 14 lbs"],
         "size3": ["M", "15 - 25 lbs"],
@@ -1490,7 +1490,7 @@
         "size7": null
        },
        {
-        "name1": "Poodle (Miniature)",
+        "name": "Poodle (Miniature)",
         "size1": ["S", "8 - 20 lbs"],
         "size2": ["M", "21 - 35 lbs"],
         "size3": null,
@@ -1500,7 +1500,7 @@
         "size7": null
        },
        {
-        "name1": "Poodle (Standard)",
+        "name": "Poodle (Standard)",
         "size1": ["L", "40 - 69 lbs"],
         "size2": ["XL", "70 - 90 lbs"],
         "size3": null,
@@ -1510,7 +1510,7 @@
         "size7": null
        },
        {
-        "name1": "Poodle (Toy)",
+        "name": "Poodle (Toy)",
         "size1": ["XS", "0 - 7 lbs"],
         "size2": ["S", "8 - 14 lbs"],
         "size3": null,
@@ -1520,7 +1520,7 @@
         "size7": null
        },
        {
-        "name1": "Portuguese Water Dog",
+        "name": "Portuguese Water Dog",
         "size1": ["L", "40 - 69 lbs"],
         "size2": ["XL", "70 - 99 lbs"],
         "size3": null,
@@ -1530,7 +1530,7 @@
         "size7": null
        },
        {
-        "name1": "Pug",
+        "name": "Pug",
         "size1": ["S", "10 -14 lbs"],
         "size2": ["M", "15 - 39 lbs"],
         "size3": null,
@@ -1540,7 +1540,7 @@
         "size7": null
        },
        {
-        "name1": "Puli",
+        "name": "Puli",
         "size1": ["M", "15 - 39 lbs"],
         "size2": null,
         "size3": null,
@@ -1550,7 +1550,7 @@
         "size7": null
        },
        {
-        "name1": "Pumi",
+        "name": "Pumi",
         "size1": ["M", "15 - 39 lbs"],
         "size2": null,
         "size3": null,
@@ -1560,7 +1560,7 @@
         "size7": null
        },
        {
-        "name1": "Pyrenean Shepherd",
+        "name": "Pyrenean Shepherd",
         "size1": ["M", "15 - 39 lbs"],
         "size2": ["L", "40 - 69 lbs"],
         "size3": null,
@@ -1570,7 +1570,7 @@
         "size7": null
        },
        {
-        "name1": "Rat Terrier",
+        "name": "Rat Terrier",
         "size1": ["S", "8 - 14 lbs"],
         "size2": ["M", "15 - 39 lbs"],
         "size3": null,
@@ -1580,7 +1580,7 @@
         "size7": null
        },
        {
-        "name1": "Redbone Coonhound",
+        "name": "Redbone Coonhound",
         "size1": ["L", "40 - 74 lbs"],
         "size2": ["XL", "75 - 99 lbs"],
         "size3": null,
@@ -1590,7 +1590,7 @@
         "size7": null
        },
        {
-        "name1": "Rhodesian Ridgeback",
+        "name": "Rhodesian Ridgeback",
         "size1": ["XL", "55 - 74 lbs"],
         "size2": ["XXL", "75+ lbs"],
         "size3": null,
@@ -1600,7 +1600,7 @@
         "size7": null
        },
        {
-        "name1": "Rottweiler",
+        "name": "Rottweiler",
         "size1": ["L", "40 - 74 lbs"],
         "size2": ["XL", "75+ lbs"],
         "size3": null,
@@ -1610,7 +1610,7 @@
         "size7": null
        },
        {
-        "name1": "Russell Terrier",
+        "name": "Russell Terrier",
         "size1": ["S", "8 - 15 lbs"],
         "size2": ["M", "16 - 39 lbs"],
         "size3": null,
@@ -1620,7 +1620,7 @@
         "size7": null
        },
        {
-        "name1": "Saint Bernard",
+        "name": "Saint Bernard",
         "size1": ["XL", "75 - 99 lbs"],
         "size2": ["XXL", "100 - 124 lbs"],
         "size3": ["XXXL", "125+ lbs"],
@@ -1630,7 +1630,7 @@
         "size7": null
        },
        {
-        "name1": "Saluki",
+        "name": "Saluki",
         "size1": ["L", "40 - 74 lbs"],
         "size2": ["XL", "75 - 99 lbs"],
         "size3": null,
@@ -1640,7 +1640,7 @@
         "size7": null
        },
        {
-        "name1": "Samoyed",
+        "name": "Samoyed",
         "size1": ["M", "20 - 39 lbs"],
         "size2": ["L", "40 - 74 lbs"],
         "size3": ["XL", "75+ lbs"],
@@ -1650,7 +1650,7 @@
         "size7": null
        },
        {
-        "name1": "Schipperke",
+        "name": "Schipperke",
         "size1": ["S", "8 - 14 lbs "],
         "size2": ["M", "15 - 39 lbs"],
         "size3": null,
@@ -1660,7 +1660,7 @@
         "size7": null
        },
        {
-        "name1": "Schnauzer (Giant)",
+        "name": "Schnauzer (Giant)",
         "size1": ["L", "50 - 74 lbs"],
         "size2": ["XL", "75 - 99 lbs"],
         "size3": ["XXL", "100+ lbs"],
@@ -1670,7 +1670,7 @@
         "size7": null
        },
        {
-        "name1": "Schnauzer (Miniature)",
+        "name": "Schnauzer (Miniature)",
         "size1": ["M", "15 - 35 lbs"],
         "size2": null,
         "size3": null,
@@ -1680,7 +1680,7 @@
         "size7": null
        },
        {
-        "name1": "Schnauzer (Standard)",
+        "name": "Schnauzer (Standard)",
         "size1": ["M", "15 - 39 lbs"],
         "size2": ["L", "40 - 60 lbs"],
         "size3": null,
@@ -1690,7 +1690,7 @@
         "size7": null
        },
        {
-        "name1": "Schnoodle",
+        "name": "Schnoodle",
         "size1": ["S", "8 - 14 lbs"],
         "size2": ["M", "15 - 39 lbs"],
         "size3": ["L", " 40 - 69 lbs"],
@@ -1700,7 +1700,7 @@
         "size7": null
        },
        {
-        "name1": "Scottish Deerhound",
+        "name": "Scottish Deerhound",
         "size1": ["XL", "75 - 110 lbs"],
         "size2": null,
         "size3": null,
@@ -1710,7 +1710,7 @@
         "size7": null
        },
        {
-        "name1": "Scottish Terrier",
+        "name": "Scottish Terrier",
         "size1": ["M", "16 - 35 lbs"],
         "size2": null,
         "size3": null,
@@ -1720,7 +1720,7 @@
         "size7": null
        },
        {
-        "name1": "Sealyham Terrier",
+        "name": "Sealyham Terrier",
         "size1": ["M", "16 - 36 lbs"],
         "size2": null,
         "size3": null,
@@ -1730,7 +1730,7 @@
         "size7": null
        },
        {
-        "name1": "Shar-Pei",
+        "name": "Shar-Pei",
         "size1": ["L", "40 - 75 lbs"],
         "size2": null,
         "size3": null,
@@ -1740,7 +1740,7 @@
         "size7": null
        },
        {
-        "name1": "Sheltie",
+        "name": "Sheltie",
         "size1": ["M", "15 - 39 lbs"],
         "size2": ["L", "40 - 65 lbs"],
         "size3": null,
@@ -1750,7 +1750,7 @@
         "size7": null
        },
        {
-        "name1": "Shetland Sheepdog",
+        "name": "Shetland Sheepdog",
         "size1": ["M", "15 - 39 lbs"],
         "size2": ["L", "40 - 65 lbs"],
         "size3": null,
@@ -1760,7 +1760,7 @@
         "size7": null
        },
        {
-        "name1": "Shiba Inu",
+        "name": "Shiba Inu",
         "size1": ["S", "10 - 15 lbs"],
         "size2": ["M", "16 - 39 lbs"],
         "size3": null,
@@ -1770,7 +1770,7 @@
         "size7": null
        },
        {
-        "name1": "Shih Tzu",
+        "name": "Shih Tzu",
         "size1": ["S", "8 - 14 lbs"],
         "size2": ["M", "15 - 35 lbs"],
         "size3": null,
@@ -1780,7 +1780,7 @@
         "size7": null
        },
        {
-        "name1": "Siberian Husky",
+        "name": "Siberian Husky",
         "size1": ["L", "35 - 59 lbs"],
         "size2": ["XL", "60 - 90 lbs"],
         "size3": null,
@@ -1790,7 +1790,7 @@
         "size7": null
        },
        {
-        "name1": "Silky Terrier",
+        "name": "Silky Terrier",
         "size1": ["S", "8 - 14 lbs"],
         "size2": null,
         "size3": null,
@@ -1800,7 +1800,7 @@
         "size7": null
        },
        {
-        "name1": "Skye Terrier",
+        "name": "Skye Terrier",
         "size1": ["M", "15 - 39 lbs"],
         "size2": null,
         "size3": null,
@@ -1810,7 +1810,7 @@
         "size7": null
        },
        {
-        "name1": "Sloughi",
+        "name": "Sloughi",
         "size1": ["L", "40 - 70 lbs"],
         "size2": null,
         "size3": null,
@@ -1820,7 +1820,7 @@
         "size7": null
        },
        {
-        "name1": "Smooth Fox Terrier",
+        "name": "Smooth Fox Terrier",
         "size1": ["M", "15 - 39 lbs"],
         "size2": null,
         "size3": null,
@@ -1830,7 +1830,7 @@
         "size7": null
        },
        {
-        "name1": "Soft Coated Wheaten Terrier",
+        "name": "Soft Coated Wheaten Terrier",
         "size1": ["M", "25 - 39 lbs"],
         "size2": ["L", "40 - 65 lbs"],
         "size3": null,
@@ -1840,7 +1840,7 @@
         "size7": null
        },
        {
-        "name1": "Spanish Water Dog",
+        "name": "Spanish Water Dog",
         "size1": ["M", "15 - 39 lbs"],
         "size2": ["L", "40 - 74 lbs"],
         "size3": null,
@@ -1850,7 +1850,7 @@
         "size7": null
        },
        {
-        "name1": "Spinone Italiano",
+        "name": "Spinone Italiano",
         "size1": ["L", "45 - 69 lbs"],
         "size2": ["XL", "70 - 105 lbs"],
         "size3": null,
@@ -1860,7 +1860,7 @@
         "size7": null
        },
        {
-        "name1": "Springer Spaniel",
+        "name": "Springer Spaniel",
         "size1": ["L", "40 - 74 lbs"],
         "size2": null,
         "size3": null,
@@ -1870,7 +1870,7 @@
         "size7": null
        },
        {
-        "name1": "St. Bernard",
+        "name": "St. Bernard",
         "size1": ["XL", "75 - 99 lbs"],
         "size2": ["XXL", "100 - 124 lbs"],
         "size3": ["XXXL", "125+ lbs"],
@@ -1880,7 +1880,7 @@
         "size7": null
        },
        {
-        "name1": "Staffordshire Bull Terrier",
+        "name": "Staffordshire Bull Terrier",
         "size1": ["M", "20 - 39 lbs"],
         "size2": ["L", "40 - 65 lbs"],
         "size3": null,
@@ -1890,7 +1890,7 @@
         "size7": null
        },
        {
-        "name1": "Standard Poodle",
+        "name": "Standard Poodle",
         "size1": ["L", "40 - 69 lbs"],
         "size2": ["XL", "70 - 90 lbs"],
         "size3": null,
@@ -1900,7 +1900,7 @@
         "size7": null
        },
        {
-        "name1": "Standard Schnauzer",
+        "name": "Standard Schnauzer",
         "size1": ["M", "15 - 39 lbs"],
         "size2": ["L", "40 - 60 lbs"],
         "size3": null,
@@ -1910,7 +1910,7 @@
         "size7": null
        },
        {
-        "name1": "Sussex Spaniel",
+        "name": "Sussex Spaniel",
         "size1": ["M", "20 - 39 lbs"],
         "size2": ["L", "40 - 65 lbs"],
         "size3": null,
@@ -1920,7 +1920,7 @@
         "size7": null
        },
        {
-        "name1": "Swedish Vallhund",
+        "name": "Swedish Vallhund",
         "size1": ["M", "16 - 39 lbs"],
         "size2": null,
         "size3": null,
@@ -1930,7 +1930,7 @@
         "size7": null
        },
        {
-        "name1": "Tibetan Mastiff",
+        "name": "Tibetan Mastiff",
         "size1": ["XL", "75 - 99 lbs"],
         "size2": ["XXL", "100 - 150 lbs"],
         "size3": ["XXXL", "150+ lbs"],
@@ -1940,7 +1940,7 @@
         "size7": null
        },
        {
-        "name1": "Tibetan Spaniel",
+        "name": "Tibetan Spaniel",
         "size1": ["S", "8 - 16 lbs"],
         "size2": null,
         "size3": null,
@@ -1950,7 +1950,7 @@
         "size7": null
        },
        {
-        "name1": "Toy Fox Terrier",
+        "name": "Toy Fox Terrier",
         "size1": ["XS", "0 - 9 lbs"],
         "size2": ["S", "10 - 20 lbs"],
         "size3": null,
@@ -1960,7 +1960,7 @@
         "size7": null
        },
        {
-        "name1": "Treeing Walker Coonhound",
+        "name": "Treeing Walker Coonhound",
         "size1": ["L", "40 - 69 lbs "],
         "size2": ["XL", "70 - 100 lbs"],
         "size3": null,
@@ -1970,7 +1970,7 @@
         "size7": null
        },
        {
-        "name1": "Vizsla",
+        "name": "Vizsla",
         "size1": ["L", "40 - 75 lbs"],
         "size2": null,
         "size3": null,
@@ -1980,7 +1980,7 @@
         "size7": null
        },
        {
-        "name1": "Weimaraner",
+        "name": "Weimaraner",
         "size1": ["L", "40 - 70 lbs"],
         "size2": ["XL", "71 -120 lbs"],
         "size3": null,
@@ -1990,7 +1990,7 @@
         "size7": null
        },
        {
-        "name1": "Welsh Springer Spaniel",
+        "name": "Welsh Springer Spaniel",
         "size1": ["L", "40 - 65 lbs"],
         "size2": null,
         "size3": null,
@@ -2000,7 +2000,7 @@
         "size7": null
        },
        {
-        "name1": "Welsh Terrier",
+        "name": "Welsh Terrier",
         "size1": ["M", "16 - 35 lbs"],
         "size2": null,
         "size3": null,
@@ -2010,7 +2010,7 @@
         "size7": null
        },
        {
-        "name1": "West Highland White Terrier",
+        "name": "West Highland White Terrier",
         "size1": ["S", "12 - 14 lbs"],
         "size2": ["M", "15 - 35 lbs"],
         "size3": null,
@@ -2020,7 +2020,7 @@
         "size7": null
        },
        {
-        "name1": "Wheaten Terrier",
+        "name": "Wheaten Terrier",
         "size1": ["M", "25 - 39 lbs"],
         "size2": ["L", "40 - 65 lbs"],
         "size3": null,
@@ -2030,7 +2030,7 @@
         "size7": null
        },
        {
-        "name1": "Whippet",
+        "name": "Whippet",
         "size1": ["M", "15 - 39 lbs"],
         "size2": ["L", "40 - 60 lbs"],
         "size3": null,
@@ -2040,7 +2040,7 @@
         "size7": null
        },
        {
-        "name1": "Wire Fox Terrier",
+        "name": "Wire Fox Terrier",
         "size1": ["S", "10 - 14 lbs"],
         "size2": ["M", "15 - 39 lbs"],
         "size3": null,
@@ -2050,7 +2050,7 @@
         "size7": null
        },
        {
-        "name1": "Wirehaired Pointing Griffon",
+        "name": "Wirehaired Pointing Griffon",
         "size1": ["L", "40 - 75 lbs"],
         "size2": null,
         "size3": null,
@@ -2060,7 +2060,7 @@
         "size7": null
        },
        {
-        "name1": "Wolfhound",
+        "name": "Wolfhound",
         "size1": ["XXL", "100 - 124 lbs"],
         "size2": ["XXXL", "125 + lbs"],
         "size3": null,
@@ -2070,7 +2070,7 @@
         "size7": null
        },
        {
-        "name1": "Yorkie",
+        "name": "Yorkie",
         "size1": ["XS", "0 - 7 lbs"],
         "size2": ["S", "8 - 15 lbs"],
         "size3": null,
@@ -2080,7 +2080,7 @@
         "size7": null
        },
        {
-        "name1": "Yorkshire Terrier",
+        "name": "Yorkshire Terrier",
         "size1": ["XS", "0 - 7 lbs"],
         "size2": ["S", "8 - 15 lbs"],
         "size3": null,
@@ -2090,7 +2090,7 @@
         "size7": null
        },
        {
-        "name1": "Spitz",
+        "name": "Spitz",
         "size1": ["S", "8 - 14 lbs"],
         "size2": ["M", "15 - 39 lbs"],
         "size3": null,
@@ -2100,7 +2100,7 @@
         "size7": null
        },
        {
-        "name1": "Toy Poodle",
+        "name": "Toy Poodle",
         "size1": ["XS", "0 - 7 lbs"],
         "size2": ["S", "8-14 lbs"],
         "size3": null,
@@ -2109,4 +2109,4 @@
         "size6": null,
         "size7": null
        }
-    ]
+]
