@@ -434,7 +434,10 @@
       "size1": ["M", "15 - 39 lbs"],
       "size2": ["L", "40 - 74 lbs"],
       "size3": ["XL", "75 - 99 lbs"],
-      "size4": ["XXL", "100 - 124 lbs"]
+      "size4": ["XXL", "100 - 124 lbs"],
+      "size5": null,
+      "size6": null,
+      "size7": null
     },
     {
       "name": "Bullmastiff",
