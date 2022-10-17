@@ -940,7 +940,14 @@
         "size7": null
        },
        {
-        "name": "Grand Basset Griffon Vendeen"
+        "name": "Grand Basset Griffon Vendeen",
+         "size1": ["L", "40 - 70 lbs"],
+         "size2": null,
+         "size3": null,
+         "size4": null,
+         "size5": null,
+         "size6": null,
+         "size7": null
        },
        {
         "name": "Great Dane",
